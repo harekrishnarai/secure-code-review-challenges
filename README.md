@@ -27,6 +27,13 @@ This repo contains the code for my Secure Code Review challenges
 21. CORS Misconfiguration (Reflected Origin header)
 22. Eval Injection
 23. Unsafe Reflection
-24. ...
-25. ...
-26. ...
+24. XSLT Server-Side Request Forgery (SSRF)
+25. NoSQL Injection via Dynamic Query Construction
+26. Prototype Pollution via Object Merge
+27. Integer Overflow Leading to Logic Bypass
+28. Information Disclosure via Wildcard Route
+29. Timing Attack via Early Termination Hash Comparison
+30. Configuration Injection via Reflection
+31. Container Escape via Volume Mount Injection
+32. Multi-Vector Code Execution via Expression Evaluation
+33. Command Injection via Parameter Substitution and Encoding Bypass
